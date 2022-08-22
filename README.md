@@ -12,6 +12,7 @@
   <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+     am Benjamin
 </h1>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -24,7 +25,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I watch Anime and read tech articles.
+- :zap: In my free time, I watch Anime and read tech blog posts.
 
 - :mailbox:How to reach me: [![twitter Badge](https://img.shields.io/badge/-Benji-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/code_benji)
   ---
