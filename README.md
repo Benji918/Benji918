@@ -27,7 +27,7 @@
 
 - :zap: In my free time, I watch Anime and read tech blog posts.
 
-- :mailbox:How to reach me: [![twitter Badge](https://img.shields.io/badge/-Benji-red?style=flat&logo=Gmail&logoColor=white)](https://kodiugos@email.com)
+- :mailbox:How to reach me: [![twitter Badge](https://img.shields.io/badge/-Benji-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
   ---
 
 ### :fire: My Stats :
