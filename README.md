@@ -33,6 +33,10 @@
   ---
 
 ### :fire: My Stats :
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=DenverCoder1&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Benji918&theme=default" />
+</picture>
 
 ### Random Programmer jokes😂
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
