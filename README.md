@@ -46,3 +46,4 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 </div>
+<a href = "mailto: kodiugos@gmail.com">Send Email</a>
