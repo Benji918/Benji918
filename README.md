@@ -33,11 +33,8 @@
   ---
 
 ### :fire: My Stats :
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=DenverCoder1&theme=dark" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Benji918&theme=default" />
-</picture>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Benji918&theme=python-dark&hide_border=true)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benji918&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ### Random Programmer jokes😂
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
