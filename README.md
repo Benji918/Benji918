@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif" width="100"/>
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -29,12 +29,21 @@
 
 - :zap: In my free time, I watch Anime and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Benji-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
   ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Benji918&theme=python-dark&hide_border=true)](https://git.io/streak-stats)
+  
+  
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benji918&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benji918&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  
 ### Random Programmer jokes😂
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
