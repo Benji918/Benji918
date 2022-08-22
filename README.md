@@ -33,8 +33,8 @@
   ---
 
 ### :fire: My Stats :
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Benji918 &theme=dark&background=000000)](https://git.io/streak-stats)
-  <!-- HTML -->
+
+### Random Programmer jokes😂
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 </div>
