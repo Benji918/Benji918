@@ -4,7 +4,7 @@
 <!--   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> -->
-<!--   <a href="https://twitter.com/code_benji">
+<!--   <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
 </div>
@@ -27,7 +27,7 @@
 
 - :zap: In my free time, I watch Anime and read tech blog posts.
 
-- :mailbox:How to reach me: [![twitter Badge](https://img.shields.io/badge/-Benji-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/code_benji)
+- :mailbox:How to reach me: [![twitter Badge](https://img.shields.io/badge/-Benji-red?style=flat&logo=Gmail&logoColor=white)](https://twitter.com/code_benji)
   ---
 
 ### :fire: My Stats :
