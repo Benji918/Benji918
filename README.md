@@ -27,7 +27,7 @@
 
 - :zap: In my free time, I watch Anime and read tech blog posts.
 
-- :mailbox:How to reach me: [![twitter Badge](https://img.shields.io/badge/-Benji-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/code_benji)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Benji-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/codebenjamin/)
   ---
 
 ### :fire: My Stats :
@@ -40,8 +40,33 @@
   
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benji918&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- 
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+ <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" **alt="Flask" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" **alt="Jetbrains" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" **alt="Sqlite" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="Sqlalchemy" **alt="Sqlalchamy" width="40" height="40"/>
   
+ 
+ 
+
+  
+
+
+</div> 
+
+
 ### Random Programmer jokes😂
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
