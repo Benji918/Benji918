@@ -35,7 +35,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benji918&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
- #### Contribution graph
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Benji918&theme=react-dark&hide_border=true&area=true&card_width=50)
 
