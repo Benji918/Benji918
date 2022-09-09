@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif" width="100"/>
   <div id="badges">
-<!--   <a href="your-linkedin-URL">
+ <a href="https://www.linkedin.com/in/ugobenjamin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> -->
-<!--   <a href="https://mail.google.com/mail/u/0/#inbox">
+  </a> 
+ <a href="https://twitter.com/code_benji">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
+  </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=Benji918 &style=flat-square&color=blue" alt=""/>
   <h1>
