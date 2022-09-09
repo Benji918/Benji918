@@ -31,11 +31,13 @@
   ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Benji918&theme=python-dark&hide_border=true)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=Movie-web-scrapper)](https://github.com/Benji918/Movie-web-scrapper)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Benji918&theme=python-dark&hide_border=true)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benji918&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)   
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=Movie-web-scrapper)](https://github.com/Benji918/Movie-web-scrapper)
   
   
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benji918&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
   
   
   
