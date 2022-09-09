@@ -35,7 +35,7 @@
  
  ---
 
-### :Key Projects! :
+### :Key:  Key Projects! :
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=Movie-web-scrapper)](https://github.com/Benji918/Movie-web-scrapper)
   
@@ -44,7 +44,8 @@
 
   
   
-  
+  ---
+### Language stats👇: 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benji918&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
