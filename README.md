@@ -33,8 +33,15 @@
 ### :fire: My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Benji918&theme=python-dark&hide_border=true)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benji918&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)   
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benji918&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benji918&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ #### Contribution graph
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Benji918&theme=react-dark&hide_border=true&area=true&card_width=50)
+
+#### Github trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Benji918&theme=juicyfresh&no-bg=true" /> 
 
  
  ---
