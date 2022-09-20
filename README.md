@@ -16,9 +16,7 @@
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I watch Anime and read tech blog posts.
-  ---
-
- 
+  
  ---
 
 ### 🔖Key Projects!  :
