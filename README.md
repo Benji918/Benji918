@@ -23,8 +23,6 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=Movie-web-scrapper)](https://github.com/Benji918/Movie-web-scrapper) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=Python-typing-speed-test
 )](https://github.com/Benji918/Python-typing-speed-test)
-
   
-
 </div>
 
