@@ -19,8 +19,8 @@
 
 - :zap: In my free time, I watch Anime and read tech blog posts.
   
-### 🔖Key Projects!  :
-  
+### 🔖Key Projects
+ ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=Movie-web-scrapper)](https://github.com/Benji918/Movie-web-scrapper) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=Python-typing-speed-test
 )](https://github.com/Benji918/Python-typing-speed-test)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=Python-Youtube-downloader)](https://github.com/Benji918/Python-Youtube-Downloader) 
