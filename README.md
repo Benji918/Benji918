@@ -28,6 +28,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=Entry-Management-System)](https://github.com/Benji918/Entry-Management-System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=coffee-website)](https://github.com/Benji918/coffee-website)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=Custom-API-based-websiite)](https://github.com/Benji918/Custom-API-based-website)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=weather-app-main)](https://github.com/Benji918/weather-app-main)  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=weather-app-mfain)](https://github.com/Benji918/weather-app-main)  
 </div>
 
