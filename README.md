@@ -10,7 +10,7 @@
 <br>
 
   <img src="https://komarev.com/ghpvc/?username=Benji918 &style=flat-square&color=blue" alt=""/>
-  https://wakatime.com/badge/user/959b7910-df4f-43db-8577-468cee8fbaff.svg
+  <img src="https://wakatime.com/badge/user/959b7910-df4f-43db-8577-468cee8fbaff.svg" alt=""/>
 
 ### :woman_technologist: About Me :
   I am a Backend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
