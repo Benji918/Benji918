@@ -11,7 +11,6 @@
 
   <img src="https://komarev.com/ghpvc/?username=Benji918 &style=flat-square&color=blue" alt=""/>
   <img src="https://wakatime.com/badge/user/959b7910-df4f-43db-8577-468cee8fbaff.svg" alt=""/>
-  <a href="https://wakatime.com/@959b7910-df4f-43db-8577-468cee8fbaff"><img src="https://wakatime.com/badge/user/959b7910-df4f-43db-8577-468cee8fbaff.svg" alt="Total time coded since Apr 1 2022" /></a>
 
 ### :woman_technologist: About Me :
   I am a Backend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
