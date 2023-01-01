@@ -20,15 +20,5 @@
 
 - :zap: In my free time, I watch Anime and read tech blog posts.
   
-### 🔖 KEY PROJECTS
- ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=Movie-web-scrapper)](https://github.com/Benji918/Movie-web-scrapper) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=Python-typing-speed-test
-)](https://github.com/Benji918/Python-typing-speed-test)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=Python-Youtube-downloader)](https://github.com/Benji918/Python-Youtube-Downloader) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=Url-Shortner)](https://github.com/Benji918/Url-Shortner)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=Entry-Management-System)](https://github.com/Benji918/Entry-Management-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=coffee-website)](https://github.com/Benji918/coffee-website)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=Custom-API-based-websiite)](https://github.com/Benji918/Custom-API-based-websiite)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benji918&repo=weather-app-main)](https://github.com/Benji918/weather-app-main)  
 </div>
 
