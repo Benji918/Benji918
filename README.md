@@ -14,12 +14,12 @@
   <a href="https://wakatime.com/@959b7910-df4f-43db-8577-468cee8fbaff"><img src="https://wakatime.com/badge/user/959b7910-df4f-43db-8577-468cee8fbaff.svg" alt="Total time coded since Apr 1 2022" /></a>
 
 ### :woman_technologist: About Me :
-  I am a Backend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-  - :telescope: I aspire to work as a Software Engineer and contributing to backend for building web applications.
+  <b>I am a Backend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.</b>
+  - :telescope: <b>I aspire to work as a Software Engineer and contributing to backend for building web applications.<b>
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: <b> Exploring Technical Content Writing.</b?
 
-- :zap: In my free time, I watch Anime and read tech blog posts.
+  - :zap: <b>Fun Fact: I 💖 watching Anime</b>
   
   ### 💪 My Skill Set
 <table><tr><td valign="top" width="33%">
