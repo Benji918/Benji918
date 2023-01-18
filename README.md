@@ -62,6 +62,9 @@
 ### 💹 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Benji918&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
-[![@Benji918's Holopin board](https://holopin.io/api/user/board?user=Benji918)](https://holopin.io/@Benji918)
+<br>
+
+[![An image of @benji918's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/benji918)](https://holopin.io/@benji918)
+
 </div>
 
