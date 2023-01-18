@@ -12,6 +12,9 @@
 
   <img src="https://komarev.com/ghpvc/?username=Benji918 &style=flat-square&color=blue" alt=""/>
   <a href="https://wakatime.com/@959b7910-df4f-43db-8577-468cee8fbaff"><img src="https://wakatime.com/badge/user/959b7910-df4f-43db-8577-468cee8fbaff.svg" alt="Total time coded since Apr 1 2022" /></a>
+  
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konichiwa!...)](https://git.io/typing-svg)
+
 
 ### :woman_technologist: About Me :
   <b>I am a Backend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.</b>
@@ -58,6 +61,7 @@
  
 ### 💹 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Benji918&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-  
+
+[![@Benji918's Holopin board](https://holopin.io/api/user/board?user=Benji918)](https://holopin.io/@Benji918)
 </div>
 
