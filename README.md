@@ -18,11 +18,11 @@
 
 ### :woman_technologist: About Me :
   <b>I am a Backend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.</b>
-  - :telescope: <b>I aspire to work as a Software Engineer and contributing to backend for building web applications.<b>
+- :telescope: <b>I aspire to work as a Software Engineer and contributing to backend for building web applications.<b>
 
 - 🌱 I’m currently working on [Personal Finance Dashboard](https://github.com/Benji918/Personal_finace_portal)
 
-  - :zap: <b>Fun Fact: I 💖 watching Anime</b>
+- :zap: <b>Fun Fact: I 💖 watching Anime</b>
   
   ### 💪 My Skill Set
 <table><tr><td valign="top" width="33%">
