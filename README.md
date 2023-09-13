@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=Benji918 &style=flat-square&color=blue" alt=""/>
   <a href="https://wakatime.com/@959b7910-df4f-43db-8577-468cee8fbaff"><img src="https://wakatime.com/badge/user/959b7910-df4f-43db-8577-468cee8fbaff.svg" alt="Total time coded since Apr 1 2022" /></a>
   
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konichiwa!...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=API's run the web.....)](https://git.io/typing-svg)
 
 
 ### :woman_technologist: About Me :
