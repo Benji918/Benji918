@@ -16,7 +16,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&pause=1000&color=0DBEF7&width=435&lines=API's+rule+the+world+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
 ### :woman_technologist: About Me :
-  <b>I am a Backend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.</b>
 - :telescope: <b>I aspire to work as a Software Engineer and  to contribute to backend web applications.<b>
 
 - 🌱 I’m currently working on [Receipe REST API](https://github.com/Benji918/recepie-app-api)
