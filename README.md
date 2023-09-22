@@ -15,12 +15,6 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&pause=1000&color=0DBEF7&width=435&lines=API's+rule+the+world+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
-### :woman_technologist: About Me :
-- :telescope: <b>I aspire to work as a Software Engineer and  to contribute to backend web applications.<b>
-
-- 🌱 I’m currently working on [Receipe REST API](https://github.com/Benji918/recepie-app-api)
-
-- :zap: <b>Fun Fact: I 💖 watching Anime</b>
   
   ### 💪 My Skill Set
 <table><tr><td valign="top" width="33%">
