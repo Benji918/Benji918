@@ -10,6 +10,9 @@
 <a href="https://medium.com/@kodiugos">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
+<a href="https://www.upwork.com/freelancers/~0114b20651b6592bf6?s=1110580748673863680">
+    <img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
+  </a>
 </div>
 <br>
 
