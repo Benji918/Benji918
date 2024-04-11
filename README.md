@@ -13,6 +13,9 @@
 <a href="https://www.upwork.com/freelancers/~0114b20651b6592bf6?s=1110580748673863680">
     <img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
   </a>
+<a href="https://docs.google.com/document/d/15YOSfs-wadl5dx_xsYcnPAdyRqM6ydsk/edit?usp=drive_link&ouid=109017764854576173797&rtpof=true&sd=true">
+    <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Badge"/>
+  </a>
 </div>
 <br>
 
