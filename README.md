@@ -73,11 +73,14 @@
 </td></tr></table>  
  
 ### 💹 Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Benji918&show_icons=true&count_private=true&hide_border=true" align="left" /></div> 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benji918&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" align="right" /></div> 
+<img src="https://github-readme-stats.vercel.app/api?username=Benji918&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Benji918&theme=vue-dark&hide_border=true">
+<img href="https://wakatime.com"><img src="https://wakatime.com/share/@benji_codes/4eb31a48-2070-4743-af9d-5681c3ed1949.png" />
+
 
 
 <br>
+
 
 [![An image of @benji918's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/benji918)](https://holopin.io/@benji918)
 
