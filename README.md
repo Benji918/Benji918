@@ -79,6 +79,8 @@
 ### 💹 Github Stats  
 [![Benji918's GitHub | Stats](https://stats.quine.sh/Benji918/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Benji918)
 [![Benji918's GitHub | Dependencies](https://stats.quine.sh/Benji918/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Benji918)
+[![Benji918's GitHub | Topics Over Time](https://stats.quira.sh/Benji918/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Benji918)
+[![Benji918's GitHub | Languages Over Time](https://stats.quira.sh/Benji918/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Benji918)
 
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Benji918&theme=vue-dark&hide_border=true">
