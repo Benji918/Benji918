@@ -76,9 +76,21 @@
 
 </td></tr></table>  
  
-### 💹 Github Stats 
+### 💹 Stats 
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Benji918&theme=vue-dark&hide_border=true">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benji918&theme=vue-dark&hide_border=true" />
+    </td>
+    <td>
+      <a href="https://app.daily.dev/benji_code">
+        <img src="https://api.daily.dev/devcards/v2/wBpUa0kq5p8gmU93eVBuf.png?type=wide&r=vhi" width="652" alt="Ugochukwu Chukwukodinaka Benjamin's Dev Card"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <img href="https://wakatime.com"><img src="https://wakatime.com/share/@benji_codes/4eb31a48-2070-4743-af9d-5681c3ed1949.png" />
 
 
