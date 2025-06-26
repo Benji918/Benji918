@@ -10,10 +10,13 @@
 <a href="https://medium.com/@kodiugos">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-<a href="https://www.upwork.com/freelancers/~0114b20651b6592bf6?s=1110580748673863680">
+<!-- <a href="https://www.upwork.com/freelancers/~0114b20651b6592bf6?s=1110580748673863680">
     <img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
+  </a> -->
+<a href="https://bencodes.framer.website">
+    <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
-<a href="https://docs.google.com/document/d/1gZaRxWPJZOXobXgLyFGQCsfPqLWqzd9q/edit?usp=sharing&ouid=109017764854576173797&rtpof=true&sd=true?usp=drive_link&ouid=109017764854576173797&rtpof=true&sd=true">
+<a href="https://docs.google.com/document/d/1YiJdcXkQ1W4n66HVHGtJxICdUhMcuSwo/edit?usp=sharing&ouid=109017764854576173797&rtpof=true&sd=true">
     <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
@@ -90,6 +93,7 @@
     </td>
   </tr>
 </table>
+
 
 <img href="https://wakatime.com"><img src="https://wakatime.com/share/@benji_codes/4eb31a48-2070-4743-af9d-5681c3ed1949.png" />
 
