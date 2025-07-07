@@ -1,4 +1,4 @@
-![](https://github.com/Benji918/Benji918/blob/main/download.png)
+
 <div id="header" align="center">
   <div id="badges">
  <a href="https://www.linkedin.com/in/ugobenjamin/">
