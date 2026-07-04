@@ -78,7 +78,14 @@
 </div>
 
 </td></tr></table>  
- 
+ <div align="center">
+  <a href="https://commit-history.com/Benji918">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/Benji918?theme=dark" />
+      <img alt="Benji918's commit history" src="https://commit-history.com/embed/Benji918" />
+    </picture>
+  </a>
+</div>
 
 
 <!-- <table>
@@ -95,7 +102,7 @@
 </table> -->
 
 
-<img href="https://wakatime.com"><img src="https://wakatime.com/share/@benji_codes/4eb31a48-2070-4743-af9d-5681c3ed1949.png" />
+<!-- <img href="https://wakatime.com"><img src="https://wakatime.com/share/@benji_codes/4eb31a48-2070-4743-af9d-5681c3ed1949.png" /> -->
 
 
 
